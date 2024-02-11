@@ -1,0 +1,1 @@
+nohup python3 -m MintzAI-ST.main -a /mnt/corpus/MintzAI-ST/v1.0/eu-es/test/audio/ -t /mnt/corpus/MintzAI-ST/v1.0/eu-es/test/transcriptions > MintzAI-ST/mintzAI_whisper.log 2>&1 &

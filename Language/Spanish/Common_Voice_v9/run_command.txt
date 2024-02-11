@@ -1,0 +1,3 @@
+(web) (base) santi@ahogpu2:~/Documents/audio_process/Models/Spanish$ nohup python3 -m Common_Voice_v9.main -a /mnt/corpus/Common_Voice_v9.0/es/clips/ -t /mnt/corpus/Common_Voice_v9.0/es/test.tsv > /home/aholab/santi/Documents/audio_process/Models/Spanish/Common_Voice_v9/common_voice_v9_es.log 2>&1 &
+
+python3 -m Common_Voice_v9.main -a /mnt/corpus/Common_Voice_v9.0/es/clips/ -t /mnt/corpus/Common_Voice_v9.0/es/test.tsv

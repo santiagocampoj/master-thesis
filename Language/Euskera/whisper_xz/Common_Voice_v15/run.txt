@@ -1,0 +1,1 @@
+nohup python3 -m Common_Voice_v15.main -a /mnt/corpus/Common_Voice_v15.0/eu/clips/ -t /mnt/corpus/Common_Voice_v15.0/eu/test.tsv > Common_Voice_v12/common_voice_15_whisper.log 2>&1 &

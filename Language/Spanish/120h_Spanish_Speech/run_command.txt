@@ -1,0 +1,1 @@
+nohup python3 -m 120h_Spanish_Speech.main -a /mnt/corpus/120h_Spanish_Speech/asr-spanish-v1-carlfm01/audios -t /mnt/corpus/120h_Spanish_Speech/asr-spanish-v1-carlfm01/files.csv > /home/aholab/santi/Documents/audio_process/Language/Spanish/120h_Spanish_Speech/120h_spanish_speech_es.log 2>&1 &

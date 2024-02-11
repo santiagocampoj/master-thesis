@@ -1,0 +1,1 @@
+python3 -m ALBAYZIN2016_ASR.main -a /mnt/corpus/ALBAYZIN2016_ASR/training/audio -t /mnt/corpus/ALBAYZIN2016_ASR/training/transcription

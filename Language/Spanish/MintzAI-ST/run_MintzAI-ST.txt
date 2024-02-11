@@ -1,0 +1,1 @@
+python3 -m MintzAI-ST.main -a /mnt/corpus/MintzAI-ST/v1.0/es-eu/test/audio/ -t /mnt/corpus/MintzAI-ST/v1.0/es-eu/test/transcriptions

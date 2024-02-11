@@ -1,0 +1,5 @@
+nohup ./process_TTS_DB.sh -p /mnt/corpus/TTS_DB -n > TTS_DB/tts_db.log 2>&1 &
+python3 -m TTS_DB.main -a "$wav_path" -t "$txt_path"
+
+
+nohup python3 -m TTS_DB.main -a /mnt/corpus/TTS_DB/andrea_eu/wav -t /mnt/corpus/TTS_DB/andrea_eu/txt > TTS_DB/nohup_logs/andrea_eu/processing.log 2>&1 &

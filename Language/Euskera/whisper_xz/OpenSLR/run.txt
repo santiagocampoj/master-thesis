@@ -1,0 +1,3 @@
+nohup python3 -m OpenSLR.main -a /mnt/corpus/OpenSLR/SLR76_EU/female/wav/ -t /mnt/corpus/OpenSLR/SLR76_EU/female/txt/ > OpenSLR/openslr_female_whisper.log 2>&1 &
+
+nohup python3 -m OpenSLR.main -a /mnt/corpus/OpenSLR/SLR76_EU/male/wav/ -t /mnt/corpus/OpenSLR/SLR76_EU/male/txt/ > OpenSLR/openslr_male_whisper.log 2>&1 &

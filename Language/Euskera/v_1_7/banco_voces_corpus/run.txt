@@ -1,0 +1,1 @@
+python3 -m banco_voces_corpus.main -d /home/aholab/asierhv/ASR_eu_test_files/banco_voces_corpus/banco_voces_corpus_processed.json

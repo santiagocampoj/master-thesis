@@ -1,0 +1,34 @@
+# FEMALE
+python3 -m M-AILABS.main -a /mnt/corpus/M-AILABS/female/karen_savage/angelina/wavs -t /mnt/corpus/M-AILABS/female/karen_savage/angelina/metadata_mls.json
+
+# MIX
+python3 -m M-AILABS.main -a /mnt/corpus/M-AILABS/mix/la_condenada/wavs -t /mnt/corpus/M-AILABS/mix/la_condenada/metadata_mls.json
+
+python3 -m M-AILABS.main -a /mnt/corpus/M-AILABS/mix/don_quijote/wavs  -t /mnt/corpus/M-AILABS/mix/don_quijote/metadata_mls.json
+
+
+# MALE
+
+# TUX
+
+python3 -m M-AILABS.main -a /mnt/corpus/M-AILABS/male/tux/bailen/wavs -t /mnt/corpus/M-AILABS/male/tux/bailen/metadata_mls.json
+
+python3 -m M-AILABS.main -a /mnt/corpus/M-AILABS/male/tux/el_19_de_marzo_y_el_2_de_nayo/wavs -t /mnt/corpus/M-AILABS/male/tux/el_19_de_marzo_y_el_2_de_nayo/metadata_mls.json
+
+python3 -m M-AILABS.main -a /mnt/corpus/M-AILABS/male/tux/eneida/wavs -t /mnt/corpus/M-AILABS/male/tux/eneida/metadata_mls.json 
+
+python3 -m M-AILABS.main -a /mnt/corpus/M-AILABS/male/tux/la_batalla_de_los_arapiles/wavs -t /mnt/corpus/M-AILABS/male/tux/la_batalla_de_los_arapiles/metadata_mls.json
+
+python3 -m M-AILABS.main -a /mnt/corpus/M-AILABS/male/tux/la_corte_de_carlos_iv/wavs -t /mnt/corpus/M-AILABS/male/tux/la_corte_de_carlos_iv/metadata_mls.json
+
+python3 -m M-AILABS.main -a /mnt/corpus/M-AILABS/male/tux/napoleon_en_chamartin/wavs -t /mnt/corpus/M-AILABS/male/tux/napoleon_en_chamartin/metadata_mls.json
+
+python3 -m M-AILABS.main -a /mnt/corpus/M-AILABS/male/tux/trafalgar/wavs -t /mnt/corpus/M-AILABS/male/tux/trafalgar/metadata_mls.json
+
+
+# VICTOR VILLARRAZA
+
+python3 -m M-AILABS.main -a /mnt/corpus/M-AILABS/male/victor_villarraza/cuentos_clasicos_del_norte/wavs -t /mnt/corpus/M-AILABS/male/victor_villarraza/cuentos_clasicos_del_norte/metadata_mls.json
+
+python3 -m M-AILABS.main -a /mnt/corpus/M-AILABS/male/victor_villarraza/la_dama_de_las_camelias/wavs -t /mnt/corpus/M-AILABS/male/victor_villarraza/la_dama_de_las_camelias/metadata_mls.json
+

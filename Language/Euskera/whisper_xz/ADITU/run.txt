@@ -1,0 +1,1 @@
+nohup ./process_ADITU.sh -p /mnt/corpus/ADITU/ADULT1EU/ -n > ADITU/aditu_nohup.log 2&>1 &

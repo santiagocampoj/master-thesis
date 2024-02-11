@@ -1,0 +1,1 @@
+nohup python3 -m Europarl-ST.main -a /mnt/corpus/Europarl-ST/v1.1/es/audios -t /mnt/corpus/Europarl-ST/v1.1/es/en/test/speeches.es -l /mnt/corpus/Europarl-ST/v1.1/es/en/test/speeches.lst > Europarl-ST/europarl-st.log 2>&1 &

@@ -1,0 +1,1 @@
+nohup python3 -m King-ASR-L-202.main -a /mnt/corpus/King-ASR-L-202/wave/ -t /mnt/corpus/King-ASR-L-202/prompt/ > King-ASR-L-202/king_asr_l_202.log 2>&1 &
